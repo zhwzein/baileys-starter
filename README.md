@@ -2,6 +2,10 @@
 
 The reference for the lightweight whatsapp bot using Baileys with a factored structure
 
+**Code quality**
+
+[![CodeFactor](https://www.codefactor.io/repository/github/sprodev/baileys-starter/badge)](https://www.codefactor.io/repository/github/sprodev/baileys-starter)
+
 ## Getting Started
 
 ### Requirements
