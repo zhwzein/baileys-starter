@@ -118,6 +118,12 @@ pkg install nodejs -y
 
 ## Additional Information
 
+### Thanks to
+
+- [Imperial Owl](https://github.com/YogaSakti/imageToSticker) for inspiration
+- [ムハマド・ロイヤニ](https://github.com/MhankBarBar/termux-wabot) for WhatsApp Bot codebase (using Baileys)
+- [Adhiraj Singh](https://github.com/adiwajshing/Baileys) for the Baileys library
+
 ### Legal
 
 WhatsApp are not allowing user using External Automation<br>
