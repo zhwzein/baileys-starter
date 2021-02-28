@@ -1,0 +1,36 @@
+{
+    "name": "baileys-starter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/start.js",
+    "scripts": {
+        "start": "node ./src/start.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sProDev/baileys-starter.git"
+    },
+    "keywords": [
+        "baileys",
+        "whatsapp",
+        "bot",
+        "js-whatsapp",
+        "whatsapp-bot",
+        "automation",
+        "lightweight"
+    ],
+    "author": "sProDev",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sProDev/baileys-starter/issues"
+    },
+    "homepage": "https://github.com/sProDev/baileys-starter#readme",
+    "dependencies": {
+        "@adiwajshing/baileys": "^3.4.1",
+        "axios": "^0.21.1",
+        "chalk": "^4.1.0",
+        "cli-table": "^0.3.5",
+        "figlet": "^1.5.0",
+        "moment-timezone": "^0.5.33"
+    }
+}
